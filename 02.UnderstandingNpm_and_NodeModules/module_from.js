@@ -1,0 +1,1 @@
+exports.text = "Hello I am defined in module_from.js";
